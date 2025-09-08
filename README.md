@@ -8,10 +8,10 @@ e-Monik adalah aplikasi berbasis digital yang dikembangkan untuk memantau, menge
 
 * Fitur Utama
 
-  1. Dashboard interaktif (progress kegiatan, indikator capaian).
-  2. Monitoring real-time berbasis data.
-  3. Export laporan otomatis (Excel/PDF).
-  4. Multi-level user (admin, supervisor, user).
+  - Dashboard interaktif (progress kegiatan, indikator capaian).
+  - Monitoring real-time berbasis data.
+  - Export laporan otomatis (Excel/PDF).
+  - Multi-level user (admin, supervisor, user).
 
 *  Teknologi yang Digunakan
 
